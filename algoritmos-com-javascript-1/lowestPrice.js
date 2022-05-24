@@ -1,5 +1,3 @@
-import { books } from "./books.js";
-
 export function lowestPrice(productsArray, startingPosition) {
   let index = startingPosition;
   let cheapest = startingPosition;
